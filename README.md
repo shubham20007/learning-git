@@ -2,5 +2,8 @@
 
 internship experience
 
+infosys
+
+kpit
 
 TCS
